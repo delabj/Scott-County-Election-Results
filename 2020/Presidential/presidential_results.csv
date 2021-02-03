@@ -1,0 +1,1009 @@
+precinct_ID,precinct_name,vote_type,pres_candidate,vice_pres_candidate,party,num_votes
+AG," Allen'sGroveTownship",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+AG," Allen'sGroveTownship",Absentee,Don Blankenship , William Alan Mohr,CON,0
+AG," Allen'sGroveTownship",Absentee,Joseph R. Biden , Kamala Harris,DEM,81
+AG," Allen'sGroveTownship",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+AG," Allen'sGroveTownship",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+AG," Allen'sGroveTownship",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,3
+AG," Allen'sGroveTownship",Absentee,Brock Pierce , Karla Ballard,Other,1
+AG," Allen'sGroveTownship",Absentee,Donald J. Trump , Michael R.Pence,REP,93
+AG," Allen'sGroveTownship","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+AG," Allen'sGroveTownship","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+AG," Allen'sGroveTownship","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,35
+AG," Allen'sGroveTownship","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+AG," Allen'sGroveTownship","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+AG," Allen'sGroveTownship","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,5
+AG," Allen'sGroveTownship","ElectionDay",Brock Pierce , Karla Ballard,Other,0
+AG," Allen'sGroveTownship","ElectionDay",Donald J. Trump , Michael R.Pence,REP,161
+B11," City ofBettendorf",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+B11," City ofBettendorf",Absentee,Don Blankenship , William Alan Mohr,CON,0
+B11," City ofBettendorf",Absentee,Joseph R. Biden , Kamala Harris,DEM,972
+B11," City ofBettendorf",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+B11," City ofBettendorf",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+B11," City ofBettendorf",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,17
+B11," City ofBettendorf",Absentee,Brock Pierce , Karla Ballard,Other,16
+B11," City ofBettendorf",Absentee,Donald J. Trump , Michael R.Pence,REP,750
+B11," City ofBettendorf","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+B11," City ofBettendorf","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+B11," City ofBettendorf","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,140
+B11," City ofBettendorf","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+B11," City ofBettendorf","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+B11," City ofBettendorf","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,12
+B11," City ofBettendorf","ElectionDay",Brock Pierce , Karla Ballard,Other,1
+B11," City ofBettendorf","ElectionDay",Donald J. Trump , Michael R.Pence,REP,288
+B12," City ofBettendorf",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+B12," City ofBettendorf",Absentee,Don Blankenship , William Alan Mohr,CON,1
+B12," City ofBettendorf",Absentee,Joseph R. Biden , Kamala Harris,DEM,789
+B12," City ofBettendorf",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+B12," City ofBettendorf",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,1
+B12," City ofBettendorf",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,11
+B12," City ofBettendorf",Absentee,Brock Pierce , Karla Ballard,Other,22
+B12," City ofBettendorf",Absentee,Donald J. Trump , Michael R.Pence,REP,558
+B12," City ofBettendorf","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+B12," City ofBettendorf","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+B12," City ofBettendorf","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,159
+B12," City ofBettendorf","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+B12," City ofBettendorf","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,2
+B12," City ofBettendorf","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,13
+B12," City ofBettendorf","ElectionDay",Brock Pierce , Karla Ballard,Other,3
+B12," City ofBettendorf","ElectionDay",Donald J. Trump , Michael R.Pence,REP,397
+B21," City ofBettendorf",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+B21," City ofBettendorf",Absentee,Don Blankenship , William Alan Mohr,CON,1
+B21," City ofBettendorf",Absentee,Joseph R. Biden , Kamala Harris,DEM,519
+B21," City ofBettendorf",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+B21," City ofBettendorf",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,3
+B21," City ofBettendorf",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,7
+B21," City ofBettendorf",Absentee,Brock Pierce , Karla Ballard,Other,12
+B21," City ofBettendorf",Absentee,Donald J. Trump , Michael R.Pence,REP,305
+B21," City ofBettendorf","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+B21," City ofBettendorf","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+B21," City ofBettendorf","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,139
+B21," City ofBettendorf","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+B21," City ofBettendorf","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,2
+B21," City ofBettendorf","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,12
+B21," City ofBettendorf","ElectionDay",Brock Pierce , Karla Ballard,Other,5
+B21," City ofBettendorf","ElectionDay",Donald J. Trump , Michael R.Pence,REP,201
+B22," City ofBettendorf",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+B22," City ofBettendorf",Absentee,Don Blankenship , William Alan Mohr,CON,2
+B22," City ofBettendorf",Absentee,Joseph R. Biden , Kamala Harris,DEM,843
+B22," City ofBettendorf",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+B22," City ofBettendorf",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,8
+B22," City ofBettendorf",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,19
+B22," City ofBettendorf",Absentee,Brock Pierce , Karla Ballard,Other,6
+B22," City ofBettendorf",Absentee,Donald J. Trump , Michael R.Pence,REP,634
+B22," City ofBettendorf","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+B22," City ofBettendorf","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+B22," City ofBettendorf","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,173
+B22," City ofBettendorf","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+B22," City ofBettendorf","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,4
+B22," City ofBettendorf","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,8
+B22," City ofBettendorf","ElectionDay",Brock Pierce , Karla Ballard,Other,4
+B22," City ofBettendorf","ElectionDay",Donald J. Trump , Michael R.Pence,REP,409
+B23," City ofBettendorf",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+B23," City ofBettendorf",Absentee,Don Blankenship , William Alan Mohr,CON,1
+B23," City ofBettendorf",Absentee,Joseph R. Biden , Kamala Harris,DEM,147
+B23," City ofBettendorf",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+B23," City ofBettendorf",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,1
+B23," City ofBettendorf",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,4
+B23," City ofBettendorf",Absentee,Brock Pierce , Karla Ballard,Other,3
+B23," City ofBettendorf",Absentee,Donald J. Trump , Michael R.Pence,REP,143
+B23," City ofBettendorf","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+B23," City ofBettendorf","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+B23," City ofBettendorf","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,34
+B23," City ofBettendorf","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,1
+B23," City ofBettendorf","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+B23," City ofBettendorf","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,2
+B23," City ofBettendorf","ElectionDay",Brock Pierce , Karla Ballard,Other,1
+B23," City ofBettendorf","ElectionDay",Donald J. Trump , Michael R.Pence,REP,74
+B31," City ofBettendorf",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+B31," City ofBettendorf",Absentee,Don Blankenship , William Alan Mohr,CON,2
+B31," City ofBettendorf",Absentee,Joseph R. Biden , Kamala Harris,DEM,842
+B31," City ofBettendorf",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+B31," City ofBettendorf",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,6
+B31," City ofBettendorf",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,16
+B31," City ofBettendorf",Absentee,Brock Pierce , Karla Ballard,Other,13
+B31," City ofBettendorf",Absentee,Donald J. Trump , Michael R.Pence,REP,579
+B31," City ofBettendorf","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+B31," City ofBettendorf","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+B31," City ofBettendorf","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,143
+B31," City ofBettendorf","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+B31," City ofBettendorf","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,2
+B31," City ofBettendorf","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,6
+B31," City ofBettendorf","ElectionDay",Brock Pierce , Karla Ballard,Other,2
+B31," City ofBettendorf","ElectionDay",Donald J. Trump , Michael R.Pence,REP,317
+B32," City ofBettendorf",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+B32," City ofBettendorf",Absentee,Don Blankenship , William Alan Mohr,CON,5
+B32," City ofBettendorf",Absentee,Joseph R. Biden , Kamala Harris,DEM,931
+B32," City ofBettendorf",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,1
+B32," City ofBettendorf",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,5
+B32," City ofBettendorf",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,13
+B32," City ofBettendorf",Absentee,Brock Pierce , Karla Ballard,Other,16
+B32," City ofBettendorf",Absentee,Donald J. Trump , Michael R.Pence,REP,630
+B32," City ofBettendorf","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+B32," City ofBettendorf","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+B32," City ofBettendorf","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,109
+B32," City ofBettendorf","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+B32," City ofBettendorf","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+B32," City ofBettendorf","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,10
+B32," City ofBettendorf","ElectionDay",Brock Pierce , Karla Ballard,Other,0
+B32," City ofBettendorf","ElectionDay",Donald J. Trump , Michael R.Pence,REP,278
+B41," City ofBettendorf",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+B41," City ofBettendorf",Absentee,Don Blankenship , William Alan Mohr,CON,1
+B41," City ofBettendorf",Absentee,Joseph R. Biden , Kamala Harris,DEM,1088
+B41," City ofBettendorf",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+B41," City ofBettendorf",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,1
+B41," City ofBettendorf",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,15
+B41," City ofBettendorf",Absentee,Brock Pierce , Karla Ballard,Other,16
+B41," City ofBettendorf",Absentee,Donald J. Trump , Michael R.Pence,REP,956
+B41," City ofBettendorf","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+B41," City ofBettendorf","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+B41," City ofBettendorf","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,106
+B41," City ofBettendorf","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+B41," City ofBettendorf","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+B41," City ofBettendorf","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,7
+B41," City ofBettendorf","ElectionDay",Brock Pierce , Karla Ballard,Other,6
+B41," City ofBettendorf","ElectionDay",Donald J. Trump , Michael R.Pence,REP,349
+B42," City ofBettendorf",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+B42," City ofBettendorf",Absentee,Don Blankenship , William Alan Mohr,CON,2
+B42," City ofBettendorf",Absentee,Joseph R. Biden , Kamala Harris,DEM,1011
+B42," City ofBettendorf",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+B42," City ofBettendorf",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+B42," City ofBettendorf",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,15
+B42," City ofBettendorf",Absentee,Brock Pierce , Karla Ballard,Other,16
+B42," City ofBettendorf",Absentee,Donald J. Trump , Michael R.Pence,REP,611
+B42," City ofBettendorf","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+B42," City ofBettendorf","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+B42," City ofBettendorf","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,163
+B42," City ofBettendorf","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+B42," City ofBettendorf","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,2
+B42," City ofBettendorf","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,14
+B42," City ofBettendorf","ElectionDay",Brock Pierce , Karla Ballard,Other,7
+B42," City ofBettendorf","ElectionDay",Donald J. Trump , Michael R.Pence,REP,372
+B51," City ofBettendorf",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+B51," City ofBettendorf",Absentee,Don Blankenship , William Alan Mohr,CON,1
+B51," City ofBettendorf",Absentee,Joseph R. Biden , Kamala Harris,DEM,1018
+B51," City ofBettendorf",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,1
+B51," City ofBettendorf",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,1
+B51," City ofBettendorf",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,11
+B51," City ofBettendorf",Absentee,Brock Pierce , Karla Ballard,Other,14
+B51," City ofBettendorf",Absentee,Donald J. Trump , Michael R.Pence,REP,823
+B51," City ofBettendorf","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+B51," City ofBettendorf","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+B51," City ofBettendorf","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,196
+B51," City ofBettendorf","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+B51," City ofBettendorf","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,4
+B51," City ofBettendorf","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,15
+B51," City ofBettendorf","ElectionDay",Brock Pierce , Karla Ballard,Other,4
+B51," City ofBettendorf","ElectionDay",Donald J. Trump , Michael R.Pence,REP,431
+B52," City ofBettendorf",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+B52," City ofBettendorf",Absentee,Don Blankenship , William Alan Mohr,CON,2
+B52," City ofBettendorf",Absentee,Joseph R. Biden , Kamala Harris,DEM,1711
+B52," City ofBettendorf",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+B52," City ofBettendorf",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+B52," City ofBettendorf",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,22
+B52," City ofBettendorf",Absentee,Brock Pierce , Karla Ballard,Other,33
+B52," City ofBettendorf",Absentee,Donald J. Trump , Michael R.Pence,REP,1567
+B52," City ofBettendorf","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+B52," City ofBettendorf","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+B52," City ofBettendorf","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,194
+B52," City ofBettendorf","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+B52," City ofBettendorf","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+B52," City ofBettendorf","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,11
+B52," City ofBettendorf","ElectionDay",Brock Pierce , Karla Ballard,Other,8
+B52," City ofBettendorf","ElectionDay",Donald J. Trump , Michael R.Pence,REP,559
+BF," City ofBuffalo",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+BF," City ofBuffalo",Absentee,Don Blankenship , William Alan Mohr,CON,0
+BF," City ofBuffalo",Absentee,Joseph R. Biden , Kamala Harris,DEM,126
+BF," City ofBuffalo",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+BF," City ofBuffalo",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+BF," City ofBuffalo",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,2
+BF," City ofBuffalo",Absentee,Brock Pierce , Karla Ballard,Other,1
+BF," City ofBuffalo",Absentee,Donald J. Trump , Michael R.Pence,REP,73
+BF," City ofBuffalo","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+BF," City ofBuffalo","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+BF," City ofBuffalo","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,85
+BF," City ofBuffalo","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+BF," City ofBuffalo","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,3
+BF," City ofBuffalo","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,6
+BF," City ofBuffalo","ElectionDay",Brock Pierce , Karla Ballard,Other,2
+BF," City ofBuffalo","ElectionDay",Donald J. Trump , Michael R.Pence,REP,338
+BG," BlueGrassTownship",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+BG," BlueGrassTownship",Absentee,Don Blankenship , William Alan Mohr,CON,2
+BG," BlueGrassTownship",Absentee,Joseph R. Biden , Kamala Harris,DEM,458
+BG," BlueGrassTownship",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+BG," BlueGrassTownship",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+BG," BlueGrassTownship",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,9
+BG," BlueGrassTownship",Absentee,Brock Pierce , Karla Ballard,Other,8
+BG," BlueGrassTownship",Absentee,Donald J. Trump , Michael R.Pence,REP,447
+BG," BlueGrassTownship","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+BG," BlueGrassTownship","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+BG," BlueGrassTownship","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,151
+BG," BlueGrassTownship","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,1
+BG," BlueGrassTownship","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+BG," BlueGrassTownship","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,5
+BG," BlueGrassTownship","ElectionDay",Brock Pierce , Karla Ballard,Other,6
+BG," BlueGrassTownship","ElectionDay",Donald J. Trump , Michael R.Pence,REP,586
+BU," BuffaloTownship",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+BU," BuffaloTownship",Absentee,Don Blankenship , William Alan Mohr,CON,1
+BU," BuffaloTownship",Absentee,Joseph R. Biden , Kamala Harris,DEM,556
+BU," BuffaloTownship",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+BU," BuffaloTownship",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+BU," BuffaloTownship",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,4
+BU," BuffaloTownship",Absentee,Brock Pierce , Karla Ballard,Other,11
+BU," BuffaloTownship",Absentee,Donald J. Trump , Michael R.Pence,REP,575
+BU," BuffaloTownship","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+BU," BuffaloTownship","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+BU," BuffaloTownship","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,169
+BU," BuffaloTownship","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+BU," BuffaloTownship","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,2
+BU," BuffaloTownship","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,12
+BU," BuffaloTownship","ElectionDay",Brock Pierce , Karla Ballard,Other,5
+BU," BuffaloTownship","ElectionDay",Donald J. Trump , Michael R.Pence,REP,667
+D11," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D11," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,0
+D11," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,675
+D11," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,1
+D11," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,2
+D11," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,8
+D11," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,13
+D11," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,457
+D11," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D11," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+D11," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,94
+D11," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D11," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,2
+D11," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,2
+D11," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,6
+D11," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,195
+D12," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D12," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,4
+D12," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,633
+D12," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D12," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,3
+D12," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,13
+D12," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,6
+D12," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,305
+D12," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,3
+D12," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D12," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,183
+D12," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D12," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+D12," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,7
+D12," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,5
+D12," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,275
+D13," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D13," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,2
+D13," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,716
+D13," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D13," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,1
+D13," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,6
+D13," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,9
+D13," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,480
+D13," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D13," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+D13," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,181
+D13," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D13," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+D13," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,15
+D13," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,3
+D13," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,417
+D14," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D14," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,1
+D14," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,539
+D14," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,1
+D14," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,1
+D14," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,6
+D14," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,7
+D14," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,272
+D14," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D14," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D14," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,166
+D14," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D14," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,5
+D14," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,18
+D14," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,3
+D14," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,272
+D21," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D21," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,2
+D21," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,647
+D21," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,1
+D21," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,2
+D21," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,16
+D21," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,10
+D21," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,373
+D21," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D21," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D21," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,186
+D21," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D21," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+D21," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,12
+D21," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,9
+D21," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,369
+D22," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D22," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,0
+D22," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,522
+D22," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,2
+D22," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,3
+D22," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,5
+D22," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,11
+D22," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,296
+D22," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D22," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D22," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,180
+D22," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D22," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+D22," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,7
+D22," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,3
+D22," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,219
+D23," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D23," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,1
+D23," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,479
+D23," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,1
+D23," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,3
+D23," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,8
+D23," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,12
+D23," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,342
+D23," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D23," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D23," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,130
+D23," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,1
+D23," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+D23," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,6
+D23," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,9
+D23," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,305
+D24," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D24," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,4
+D24," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,682
+D24," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,1
+D24," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,6
+D24," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,8
+D24," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,16
+D24," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,375
+D24," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D24," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D24," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,165
+D24," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D24," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+D24," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,9
+D24," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,7
+D24," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,243
+D31," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D31," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,2
+D31," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,485
+D31," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D31," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,3
+D31," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,5
+D31," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,15
+D31," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,206
+D31," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D31," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D31," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,204
+D31," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,1
+D31," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,5
+D31," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,12
+D31," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,7
+D31," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,271
+D32," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D32," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,2
+D32," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,416
+D32," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D32," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,2
+D32," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,1
+D32," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,14
+D32," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,129
+D32," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D32," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D32," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,131
+D32," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D32," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,3
+D32," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,3
+D32," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,3
+D32," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,124
+D33," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D33," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,1
+D33," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,491
+D33," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,2
+D33," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,4
+D33," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,5
+D33," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,6
+D33," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,153
+D33," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,2
+D33," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D33," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,142
+D33," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D33," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+D33," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,9
+D33," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,6
+D33," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,103
+D34," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D34," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,1
+D34," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,570
+D34," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D34," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,2
+D34," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,8
+D34," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,21
+D34," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,117
+D34," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D34," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D34," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,179
+D34," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D34," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,4
+D34," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,8
+D34," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,10
+D34," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,138
+D41," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D41," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,2
+D41," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,754
+D41," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D41," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+D41," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,9
+D41," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,8
+D41," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,379
+D41," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,2
+D41," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+D41," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,221
+D41," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D41," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,2
+D41," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,13
+D41," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,8
+D41," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,409
+D42," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D42," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,2
+D42," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,564
+D42," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D42," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,5
+D42," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,9
+D42," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,7
+D42," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,284
+D42," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D42," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D42," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,182
+D42," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,1
+D42," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+D42," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,15
+D42," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,7
+D42," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,300
+D43," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D43," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,1
+D43," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,654
+D43," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D43," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,3
+D43," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,14
+D43," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,5
+D43," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,301
+D43," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D43," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D43," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,144
+D43," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,1
+D43," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,2
+D43," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,12
+D43," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,6
+D43," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,258
+D44," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D44," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,0
+D44," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,500
+D44," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D44," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,2
+D44," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,3
+D44," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,17
+D44," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,163
+D44," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D44," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D44," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,199
+D44," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D44," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,3
+D44," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,7
+D44," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,6
+D44," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,161
+D51," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,2
+D51," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,1
+D51," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,958
+D51," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D51," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,6
+D51," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,12
+D51," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,9
+D51," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,368
+D51," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D51," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D51," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,221
+D51," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,1
+D51," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,6
+D51," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,8
+D51," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,4
+D51," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,286
+D52," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D52," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,3
+D52," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,635
+D52," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D52," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,3
+D52," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,12
+D52," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,12
+D52," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,206
+D52," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D52," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+D52," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,204
+D52," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D52," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,2
+D52," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,9
+D52," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,9
+D52," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,249
+D53," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D53," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,1
+D53," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,704
+D53," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D53," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,4
+D53," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,13
+D53," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,16
+D53," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,307
+D53," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D53," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D53," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,164
+D53," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D53," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+D53," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,13
+D53," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,5
+D53," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,209
+D54," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,2
+D54," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,0
+D54," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,525
+D54," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D54," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,1
+D54," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,7
+D54," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,7
+D54," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,138
+D54," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D54," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D54," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,218
+D54," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D54," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,2
+D54," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,6
+D54," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,2
+D54," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,138
+D61," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D61," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,2
+D61," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,826
+D61," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D61," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+D61," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,7
+D61," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,16
+D61," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,723
+D61," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D61," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D61," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,147
+D61," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D61," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+D61," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,5
+D61," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,1
+D61," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,298
+D62," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D62," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,1
+D62," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,851
+D62," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D62," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,4
+D62," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,13
+D62," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,23
+D62," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,726
+D62," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D62," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+D62," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,108
+D62," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D62," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+D62," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,7
+D62," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,2
+D62," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,334
+D63," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D63," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,1
+D63," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,966
+D63," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,2
+D63," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,2
+D63," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,22
+D63," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,14
+D63," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,511
+D63," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D63," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D63," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,231
+D63," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D63," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,5
+D63," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,14
+D63," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,8
+D63," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,274
+D64," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D64," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,1
+D64," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,1233
+D64," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D64," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,4
+D64," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,13
+D64," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,15
+D64," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,550
+D64," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D64," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+D64," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,223
+D64," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D64," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,2
+D64," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,20
+D64," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,6
+D64," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,359
+D71," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D71," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,2
+D71," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,946
+D71," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D71," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,2
+D71," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,8
+D71," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,15
+D71," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,525
+D71," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D71," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+D71," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,157
+D71," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D71," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+D71," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,9
+D71," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,4
+D71," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,300
+D72," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D72," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,1
+D72," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,787
+D72," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,1
+D72," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,5
+D72," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,10
+D72," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,16
+D72," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,356
+D72," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D72," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+D72," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,220
+D72," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D72," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,2
+D72," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,15
+D72," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,6
+D72," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,315
+D73," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D73," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,3
+D73," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,672
+D73," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D73," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,1
+D73," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,14
+D73," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,6
+D73," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,317
+D73," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D73," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D73," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,232
+D73," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D73," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,2
+D73," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,8
+D73," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,6
+D73," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,304
+D74," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D74," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,0
+D74," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,523
+D74," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+D74," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,1
+D74," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,9
+D74," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,14
+D74," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,203
+D74," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D74," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+D74," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,112
+D74," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D74," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+D74," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,7
+D74," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,1
+D74," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,130
+D81," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D81," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,1
+D81," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,543
+D81," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,1
+D81," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,4
+D81," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,12
+D81," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,11
+D81," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,302
+D81," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D81," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D81," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,172
+D81," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D81," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+D81," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,12
+D81," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,6
+D81," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,301
+D82," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D82," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,3
+D82," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,771
+D82," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,1
+D82," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+D82," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,5
+D82," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,15
+D82," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,516
+D82," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D82," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,3
+D82," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,192
+D82," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D82," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+D82," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,6
+D82," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,6
+D82," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,369
+D83," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D83," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,1
+D83," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,878
+D83," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,2
+D83," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,1
+D83," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,6
+D83," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,11
+D83," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,455
+D83," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D83," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D83," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,215
+D83," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D83," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+D83," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,12
+D83," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,5
+D83," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,346
+D84," City ofDavenport",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+D84," City ofDavenport",Absentee,Don Blankenship , William Alan Mohr,CON,0
+D84," City ofDavenport",Absentee,Joseph R. Biden , Kamala Harris,DEM,811
+D84," City ofDavenport",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,1
+D84," City ofDavenport",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,2
+D84," City ofDavenport",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,9
+D84," City ofDavenport",Absentee,Brock Pierce , Karla Ballard,Other,13
+D84," City ofDavenport",Absentee,Donald J. Trump , Michael R.Pence,REP,616
+D84," City ofDavenport","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+D84," City ofDavenport","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+D84," City ofDavenport","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,106
+D84," City ofDavenport","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+D84," City ofDavenport","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+D84," City ofDavenport","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,9
+D84," City ofDavenport","ElectionDay",Brock Pierce , Karla Ballard,Other,6
+D84," City ofDavenport","ElectionDay",Donald J. Trump , Michael R.Pence,REP,215
+DH," City ofDonahue",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+DH," City ofDonahue",Absentee,Don Blankenship , William Alan Mohr,CON,0
+DH," City ofDonahue",Absentee,Joseph R. Biden , Kamala Harris,DEM,42
+DH," City ofDonahue",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,1
+DH," City ofDonahue",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+DH," City ofDonahue",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,1
+DH," City ofDonahue",Absentee,Brock Pierce , Karla Ballard,Other,3
+DH," City ofDonahue",Absentee,Donald J. Trump , Michael R.Pence,REP,31
+DH," City ofDonahue","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+DH," City ofDonahue","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+DH," City ofDonahue","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,27
+DH," City ofDonahue","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+DH," City ofDonahue","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+DH," City ofDonahue","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,3
+DH," City ofDonahue","ElectionDay",Brock Pierce , Karla Ballard,Other,0
+DH," City ofDonahue","ElectionDay",Donald J. Trump , Michael R.Pence,REP,87
+EL1," City ofEldridge",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,2
+EL1," City ofEldridge",Absentee,Don Blankenship , William Alan Mohr,CON,1
+EL1," City ofEldridge",Absentee,Joseph R. Biden , Kamala Harris,DEM,831
+EL1," City ofEldridge",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+EL1," City ofEldridge",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,2
+EL1," City ofEldridge",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,20
+EL1," City ofEldridge",Absentee,Brock Pierce , Karla Ballard,Other,15
+EL1," City ofEldridge",Absentee,Donald J. Trump , Michael R.Pence,REP,827
+EL1," City ofEldridge","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+EL1," City ofEldridge","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+EL1," City ofEldridge","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,124
+EL1," City ofEldridge","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+EL1," City ofEldridge","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+EL1," City ofEldridge","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,18
+EL1," City ofEldridge","ElectionDay",Brock Pierce , Karla Ballard,Other,3
+EL1," City ofEldridge","ElectionDay",Donald J. Trump , Michael R.Pence,REP,402
+EL2," City ofEldridge",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+EL2," City ofEldridge",Absentee,Don Blankenship , William Alan Mohr,CON,0
+EL2," City ofEldridge",Absentee,Joseph R. Biden , Kamala Harris,DEM,719
+EL2," City ofEldridge",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,1
+EL2," City ofEldridge",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+EL2," City ofEldridge",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,19
+EL2," City ofEldridge",Absentee,Brock Pierce , Karla Ballard,Other,10
+EL2," City ofEldridge",Absentee,Donald J. Trump , Michael R.Pence,REP,795
+EL2," City ofEldridge","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+EL2," City ofEldridge","ElectionDay",Don Blankenship , William Alan Mohr,CON,2
+EL2," City ofEldridge","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,121
+EL2," City ofEldridge","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+EL2," City ofEldridge","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+EL2," City ofEldridge","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,11
+EL2," City ofEldridge","ElectionDay",Brock Pierce , Karla Ballard,Other,6
+EL2," City ofEldridge","ElectionDay",Donald J. Trump , Michael R.Pence,REP,466
+HG," HickoryGroveTownship",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+HG," HickoryGroveTownship",Absentee,Don Blankenship , William Alan Mohr,CON,0
+HG," HickoryGroveTownship",Absentee,Joseph R. Biden , Kamala Harris,DEM,74
+HG," HickoryGroveTownship",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+HG," HickoryGroveTownship",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,1
+HG," HickoryGroveTownship",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,1
+HG," HickoryGroveTownship",Absentee,Brock Pierce , Karla Ballard,Other,0
+HG," HickoryGroveTownship",Absentee,Donald J. Trump , Michael R.Pence,REP,86
+HG," HickoryGroveTownship","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+HG," HickoryGroveTownship","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+HG," HickoryGroveTownship","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,40
+HG," HickoryGroveTownship","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+HG," HickoryGroveTownship","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+HG," HickoryGroveTownship","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,1
+HG," HickoryGroveTownship","ElectionDay",Brock Pierce , Karla Ballard,Other,1
+HG," HickoryGroveTownship","ElectionDay",Donald J. Trump , Michael R.Pence,REP,183
+LB," LibertyTownship",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+LB," LibertyTownship",Absentee,Don Blankenship , William Alan Mohr,CON,0
+LB," LibertyTownship",Absentee,Joseph R. Biden , Kamala Harris,DEM,80
+LB," LibertyTownship",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+LB," LibertyTownship",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+LB," LibertyTownship",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,1
+LB," LibertyTownship",Absentee,Brock Pierce , Karla Ballard,Other,2
+LB," LibertyTownship",Absentee,Donald J. Trump , Michael R.Pence,REP,71
+LB," LibertyTownship","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+LB," LibertyTownship","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+LB," LibertyTownship","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,61
+LB," LibertyTownship","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+LB," LibertyTownship","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+LB," LibertyTownship","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,2
+LB," LibertyTownship","ElectionDay",Brock Pierce , Karla Ballard,Other,1
+LB," LibertyTownship","ElectionDay",Donald J. Trump , Michael R.Pence,REP,231
+LC1," City ofLeClaire",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+LC1," City ofLeClaire",Absentee,Don Blankenship , William Alan Mohr,CON,0
+LC1," City ofLeClaire",Absentee,Joseph R. Biden , Kamala Harris,DEM,435
+LC1," City ofLeClaire",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+LC1," City ofLeClaire",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,1
+LC1," City ofLeClaire",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,5
+LC1," City ofLeClaire",Absentee,Brock Pierce , Karla Ballard,Other,5
+LC1," City ofLeClaire",Absentee,Donald J. Trump , Michael R.Pence,REP,323
+LC1," City ofLeClaire","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+LC1," City ofLeClaire","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+LC1," City ofLeClaire","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,190
+LC1," City ofLeClaire","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+LC1," City ofLeClaire","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+LC1," City ofLeClaire","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,15
+LC1," City ofLeClaire","ElectionDay",Brock Pierce , Karla Ballard,Other,2
+LC1," City ofLeClaire","ElectionDay",Donald J. Trump , Michael R.Pence,REP,453
+LC2," City ofLeClaire",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+LC2," City ofLeClaire",Absentee,Don Blankenship , William Alan Mohr,CON,0
+LC2," City ofLeClaire",Absentee,Joseph R. Biden , Kamala Harris,DEM,483
+LC2," City ofLeClaire",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,1
+LC2," City ofLeClaire",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+LC2," City ofLeClaire",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,6
+LC2," City ofLeClaire",Absentee,Brock Pierce , Karla Ballard,Other,13
+LC2," City ofLeClaire",Absentee,Donald J. Trump , Michael R.Pence,REP,399
+LC2," City ofLeClaire","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+LC2," City ofLeClaire","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+LC2," City ofLeClaire","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,149
+LC2," City ofLeClaire","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+LC2," City ofLeClaire","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+LC2," City ofLeClaire","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,18
+LC2," City ofLeClaire","ElectionDay",Brock Pierce , Karla Ballard,Other,1
+LC2," City ofLeClaire","ElectionDay",Donald J. Trump , Michael R.Pence,REP,475
+LCT,"LeClaireTownship",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+LCT,"LeClaireTownship",Absentee,Don Blankenship , William Alan Mohr,CON,0
+LCT,"LeClaireTownship",Absentee,Joseph R. Biden , Kamala Harris,DEM,298
+LCT,"LeClaireTownship",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+LCT,"LeClaireTownship",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+LCT,"LeClaireTownship",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,8
+LCT,"LeClaireTownship",Absentee,Brock Pierce , Karla Ballard,Other,5
+LCT,"LeClaireTownship",Absentee,Donald J. Trump , Michael R.Pence,REP,308
+LCT,"LeClaireTownship","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+LCT,"LeClaireTownship","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+LCT,"LeClaireTownship","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,68
+LCT,"LeClaireTownship","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+LCT,"LeClaireTownship","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+LCT,"LeClaireTownship","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,9
+LCT,"LeClaireTownship","ElectionDay",Brock Pierce , Karla Ballard,Other,8
+LCT,"LeClaireTownship","ElectionDay",Donald J. Trump , Michael R.Pence,REP,322
+LG," City ofLong Grove",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+LG," City ofLong Grove",Absentee,Don Blankenship , William Alan Mohr,CON,1
+LG," City ofLong Grove",Absentee,Joseph R. Biden , Kamala Harris,DEM,191
+LG," City ofLong Grove",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+LG," City ofLong Grove",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+LG," City ofLong Grove",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,1
+LG," City ofLong Grove",Absentee,Brock Pierce , Karla Ballard,Other,1
+LG," City ofLong Grove",Absentee,Donald J. Trump , Michael R.Pence,REP,148
+LG," City ofLong Grove","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+LG," City ofLong Grove","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+LG," City ofLong Grove","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,54
+LG," City ofLong Grove","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+LG," City ofLong Grove","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+LG," City ofLong Grove","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,1
+LG," City ofLong Grove","ElectionDay",Brock Pierce , Karla Ballard,Other,2
+LG," City ofLong Grove","ElectionDay",Donald J. Trump , Michael R.Pence,REP,166
+MC," City ofMcCausland",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+MC," City ofMcCausland",Absentee,Don Blankenship , William Alan Mohr,CON,0
+MC," City ofMcCausland",Absentee,Joseph R. Biden , Kamala Harris,DEM,153
+MC," City ofMcCausland",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+MC," City ofMcCausland",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+MC," City ofMcCausland",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,0
+MC," City ofMcCausland",Absentee,Brock Pierce , Karla Ballard,Other,7
+MC," City ofMcCausland",Absentee,Donald J. Trump , Michael R.Pence,REP,186
+MC," City ofMcCausland","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+MC," City ofMcCausland","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+MC," City ofMcCausland","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,46
+MC," City ofMcCausland","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+MC," City ofMcCausland","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+MC," City ofMcCausland","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,4
+MC," City ofMcCausland","ElectionDay",Brock Pierce , Karla Ballard,Other,1
+MC," City ofMcCausland","ElectionDay",Donald J. Trump , Michael R.Pence,REP,230
+PKV," ParkView",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+PKV," ParkView",Absentee,Don Blankenship , William Alan Mohr,CON,1
+PKV," ParkView",Absentee,Joseph R. Biden , Kamala Harris,DEM,593
+PKV," ParkView",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+PKV," ParkView",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,5
+PKV," ParkView",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,13
+PKV," ParkView",Absentee,Brock Pierce , Karla Ballard,Other,10
+PKV," ParkView",Absentee,Donald J. Trump , Michael R.Pence,REP,574
+PKV," ParkView","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+PKV," ParkView","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+PKV," ParkView","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,154
+PKV," ParkView","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+PKV," ParkView","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+PKV," ParkView","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,16
+PKV," ParkView","ElectionDay",Brock Pierce , Karla Ballard,Other,3
+PKV," ParkView","ElectionDay",Donald J. Trump , Michael R.Pence,REP,527
+PR," City ofPrinceton",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+PR," City ofPrinceton",Absentee,Don Blankenship , William Alan Mohr,CON,0
+PR," City ofPrinceton",Absentee,Joseph R. Biden , Kamala Harris,DEM,193
+PR," City ofPrinceton",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+PR," City ofPrinceton",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+PR," City ofPrinceton",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,2
+PR," City ofPrinceton",Absentee,Brock Pierce , Karla Ballard,Other,0
+PR," City ofPrinceton",Absentee,Donald J. Trump , Michael R.Pence,REP,148
+PR," City ofPrinceton","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+PR," City ofPrinceton","ElectionDay",Don Blankenship , William Alan Mohr,CON,3
+PR," City ofPrinceton","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,136
+PR," City ofPrinceton","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+PR," City ofPrinceton","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+PR," City ofPrinceton","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,1
+PR," City ofPrinceton","ElectionDay",Brock Pierce , Karla Ballard,Other,3
+PR," City ofPrinceton","ElectionDay",Donald J. Trump , Michael R.Pence,REP,397
+PV,"PleasantValley",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+PV,"PleasantValley",Absentee,Don Blankenship , William Alan Mohr,CON,0
+PV,"PleasantValley",Absentee,Joseph R. Biden , Kamala Harris,DEM,214
+PV,"PleasantValley",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+PV,"PleasantValley",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+PV,"PleasantValley",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,9
+PV,"PleasantValley",Absentee,Brock Pierce , Karla Ballard,Other,4
+PV,"PleasantValley",Absentee,Donald J. Trump , Michael R.Pence,REP,281
+PV,"PleasantValley","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+PV,"PleasantValley","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+PV,"PleasantValley","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,73
+PV,"PleasantValley","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,1
+PV,"PleasantValley","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+PV,"PleasantValley","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,4
+PV,"PleasantValley","ElectionDay",Brock Pierce , Karla Ballard,Other,4
+PV,"PleasantValley","ElectionDay",Donald J. Trump , Michael R.Pence,REP,254
+RV," City ofRiverdale",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+RV," City ofRiverdale",Absentee,Don Blankenship , William Alan Mohr,CON,0
+RV," City ofRiverdale",Absentee,Joseph R. Biden , Kamala Harris,DEM,65
+RV," City ofRiverdale",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+RV," City ofRiverdale",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+RV," City ofRiverdale",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,0
+RV," City ofRiverdale",Absentee,Brock Pierce , Karla Ballard,Other,1
+RV," City ofRiverdale",Absentee,Donald J. Trump , Michael R.Pence,REP,31
+RV," City ofRiverdale","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+RV," City ofRiverdale","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+RV," City ofRiverdale","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,47
+RV," City ofRiverdale","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+RV," City ofRiverdale","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+RV," City ofRiverdale","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,3
+RV," City ofRiverdale","ElectionDay",Brock Pierce , Karla Ballard,Other,0
+RV," City ofRiverdale","ElectionDay",Donald J. Trump , Michael R.Pence,REP,110
+WC," City ofWalcott",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+WC," City ofWalcott",Absentee,Don Blankenship , William Alan Mohr,CON,1
+WC," City ofWalcott",Absentee,Joseph R. Biden , Kamala Harris,DEM,259
+WC," City ofWalcott",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,1
+WC," City ofWalcott",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,1
+WC," City ofWalcott",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,6
+WC," City ofWalcott",Absentee,Brock Pierce , Karla Ballard,Other,9
+WC," City ofWalcott",Absentee,Donald J. Trump , Michael R.Pence,REP,201
+WC," City ofWalcott","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+WC," City ofWalcott","ElectionDay",Don Blankenship , William Alan Mohr,CON,1
+WC," City ofWalcott","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,164
+WC," City ofWalcott","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,1
+WC," City ofWalcott","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,1
+WC," City ofWalcott","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,7
+WC," City ofWalcott","ElectionDay",Brock Pierce , Karla Ballard,Other,2
+WC," City ofWalcott","ElectionDay",Donald J. Trump , Michael R.Pence,REP,491
+WF,"WinfieldTownship",Absentee,Roque Rocky De La Fuente , Darcy G. Richardson,ALL,0
+WF,"WinfieldTownship",Absentee,Don Blankenship , William Alan Mohr,CON,0
+WF,"WinfieldTownship",Absentee,Joseph R. Biden , Kamala Harris,DEM,148
+WF,"WinfieldTownship",Absentee,Ricki Sue King , Dayna R. Chandler,GKH,0
+WF,"WinfieldTownship",Absentee,Howie Hawkins , Angela Nicole Walker,GRN,0
+WF,"WinfieldTownship",Absentee,Jo Jorgensen , Jeremy Cohen,LIB,1
+WF,"WinfieldTownship",Absentee,Brock Pierce , Karla Ballard,Other,2
+WF,"WinfieldTownship",Absentee,Donald J. Trump , Michael R.Pence,REP,162
+WF,"WinfieldTownship","ElectionDay",Roque Rocky De La Fuente , Darcy G. Richardson,ALL,1
+WF,"WinfieldTownship","ElectionDay",Don Blankenship , William Alan Mohr,CON,0
+WF,"WinfieldTownship","ElectionDay",Joseph R. Biden , Kamala Harris,DEM,41
+WF,"WinfieldTownship","ElectionDay",Ricki Sue King , Dayna R. Chandler,GKH,0
+WF,"WinfieldTownship","ElectionDay",Howie Hawkins , Angela Nicole Walker,GRN,0
+WF,"WinfieldTownship","ElectionDay",Jo Jorgensen , Jeremy Cohen,LIB,1
+WF,"WinfieldTownship","ElectionDay",Brock Pierce , Karla Ballard,Other,1
+WF,"WinfieldTownship","ElectionDay",Donald J. Trump , Michael R.Pence,REP,210
